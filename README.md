@@ -1,2 +1,2 @@
-Hi, my name is Beatriz, i'm a digital designer and technology student. 
-Now, i am learning SQL and Python. 
+Hi, my name is Beatriz, i'm a Front-end developer and digital designer based in Rio :)
+
